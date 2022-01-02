@@ -21,7 +21,7 @@ Through this project I would like to showing Graphical Representation of Traffic
 
 # Output
 
-![](output image.png)
+![](output.png)
 
 # Video Explanation
 
